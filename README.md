@@ -12,3 +12,8 @@ From https://www.youtube.com/watch?v=__cqtq6vm_0&t=6s
     
 ## 09::00 image as Mesh
     Add Image / Meash Plane
+    
+## GN Radial Branching
+    Inspired from 
+    https://b3d.interplanety.org/en/radial-array-in-blender-made-with-geometry-nodes/
+    
