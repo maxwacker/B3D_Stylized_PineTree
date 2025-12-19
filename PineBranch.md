@@ -43,4 +43,9 @@ https://www.youtube.com/watch?v=qBKtjZQY7r0
     Replacing ColorRamp Control for Radius
     by Spline Handle indiviual scaling control
     from https://www.youtube.com/watch?v=YMwzdcMkado
+    </>
+    
+    Frame the radus GNs with name
+    
+    Add InstanceOnPoint Setup
     
