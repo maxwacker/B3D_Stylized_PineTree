@@ -38,3 +38,9 @@ https://www.youtube.com/watch?v=qBKtjZQY7r0
 ## 04:55
     Adjust radius along curve
     Put (new) SplineParam.Factor into SetCurveRadius.Radius
+    
+    <>
+    Replacing ColorRamp Control for Radius
+    by Spline Handle indiviual scaling control
+    from https://www.youtube.com/watch?v=YMwzdcMkado
+    
