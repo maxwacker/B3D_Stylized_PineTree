@@ -17,3 +17,5 @@ From https://www.youtube.com/watch?v=__cqtq6vm_0&t=6s
     Inspired from 
     https://b3d.interplanety.org/en/radial-array-in-blender-made-with-geometry-nodes/
     
+    Radial Branching implemented as Instances of Circles having instances of branches.
+    
