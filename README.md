@@ -19,3 +19,8 @@ From https://www.youtube.com/watch?v=__cqtq6vm_0&t=6s
     
     Radial Branching implemented as Instances of Circles having instances of branches.
     
+    Rotate Branch instances individually / Vertically
+    
+### Some Collection and Object cleanup
+
+## Tree as Stack of Opaque canopy Cones
